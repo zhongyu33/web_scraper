@@ -1,2 +1,2 @@
 # web_scraper
-作为一个爬虫初学者， 我在这里不定期更新我的学习痕迹
+As a beginner in web crawling, I periodically update my learning history here
