@@ -6,7 +6,8 @@ import pandas as pd
 name = dict()
 data1 = []
 data2 = []
-with open("姓名.txt", "r", encoding="utf-8") as f:
+file = ''#这里填写你的姓名文件名
+with open(file, "r", encoding="utf-8") as f:
     for line in f:
         line = line.strip()
         line = line.split()
